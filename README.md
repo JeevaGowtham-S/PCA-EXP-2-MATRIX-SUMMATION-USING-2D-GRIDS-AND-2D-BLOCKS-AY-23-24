@@ -1,8 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>AIM:</h3>
-<h3>JEEVAGOWTHAM S</h3>
-<h3>212222230053</h3>
+<h3>NAME :JEEVAGOWTHAM S</h3>
+<h3>REG NO :212222230053</h3>
 <h3>EX. NO 2</h3>
 <h3>DATE</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
