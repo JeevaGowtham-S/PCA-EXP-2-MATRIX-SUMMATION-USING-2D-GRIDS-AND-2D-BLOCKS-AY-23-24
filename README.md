@@ -2,7 +2,6 @@
 
 <h3>NAME :JEEVAGOWTHAM S</h3>
 <h3>REG NO :212222230053</h3>
-<h3>EX. NO 2</h3>
 <h3>DATE</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
@@ -34,7 +33,7 @@ Google Colab with NVCC Compiler
 12.	Reset the device: Reset the device using cudaDeviceReset to ensure that all resources are cleaned up before the program exits.
 
 ## PROGRAM:
-
+```
 !pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
 %load_ext nvcc4jupyter
 
@@ -249,9 +248,10 @@ free(gpuRef);
 cudaDeviceReset();
 return (0);
 }
-
+```
 
 ## OUTPUT:
+![Screenshot 2024-03-14 144357](https://github.com/JeevaGowtham-S/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/118042624/0c70bd4a-af32-4c7c-b9b6-1f62c3cf868a)
 
 
 ## RESULT:
